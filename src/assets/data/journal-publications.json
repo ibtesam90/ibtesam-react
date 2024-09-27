@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "paper-title": "Highly efficient test architecture for low power AI accelerators",
+        "paper-link": "https://ieeexplore.ieee.org/abstract/document/9530455",
+        "journal-name" : "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    },
+    {
+        "id": 2,
+        "paper-title": "Reliable test architecture with test cost reduction for systolic based DNN accelerators",
+        "paper-link": "https://ieeexplore.ieee.org/abstract/document/9524822",
+        "journal-name" : "IEEE Transactions on Circuits and Systems II: Express Briefs"
+    },
+    {
+        "id": 3,
+        "paper-title": "Test architecture for systolic array of edge-based AI accelerator",
+        "paper-link": "https://ieeexplore.ieee.org/abstract/document/9474346",
+        "journal-name" : "IEEE Access"
+    },
+    {
+        "id": 4,
+        "paper-title": "Highly efficient test architecture for low power AI accelerators",
+        "paper-link": "https://www.researchgate.net/profile/Muhammad-Ibtesam/publication/344019856_Efficient_Low-power_Scan_Test_Method_based_on_Exclusive_Scan_and_Scan_Chain_Reordering/links/5f72d800299bf1b53efc99c9/Efficient-Low-power-Scan-Test-Method-based-on-Exclusive-Scan-and-Scan-Chain-Reordering.pdf",
+        "journal-name" : "JOURNAL OF SEMICONDUCTOR TECHNOLOGY AND SCIENCE"
+    },
+    {
+        "id": 5,
+        "paper-title": "CAN-Based Aging Monitoring Technique for Automotive ASICs With Efficient Soft Error Resilience",
+        "paper-link": "https://ieeexplore.ieee.org/abstract/document/8968344",
+        "journal-name" : "IEEE Access"
+    },
+    {
+        "id": 6,
+        "paper-title": "Master-Slave based test cost reduction method for DNN Accelerators",
+        "paper-link": "https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_18.20210425/_article/-char/ja/",
+        "journal-name" : "IEICE Electronics Express"
+    },
+    {
+        "id": 7,
+        "paper-title": "Time Multiplexed LBIST for in-field testing of Automotives AI Accelerators",
+        "paper-link": "https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_18.20210451/_article/-char/ja/",
+        "journal-name" : "IEICE Electronics Express"
+    }
+
+]

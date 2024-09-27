@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Assistant Director",
+        "organization": "Lahore Development Authority",
+        "startingDate" : "November - 2013",
+        "endDate" : "Present",
+        "jobDescription" : ["Worked toward the digitalization of record under the World Bank's LRMIS-Project for the province of Punjab.",
+                            "Managed and supervised the development and implementation of Inventory management system to cater 125k property files.",
+                            "Performed administrative tasks in different Directorates."]
+    },
+    {
+        "title": "Project Coordinator",
+        "organization": "Hyqiup Sourcing and Services, Pvt. Ltd, Lahore",
+        "startingDate" : "January 2013",
+        "endDate" : "November 2013",
+        "jobDescription" : ["Acted as liaison officer for MCTRX swap and Roll out project with Alcatel Lucent.",
+                             "Spearheaded 6 teams consisting of 6 members.",
+                            "Swapped and installed more than 150 sites within Northern Region.",
+                            "Prepared reports on monthly basis to update on project completion for higher authorities." ]
+    },
+    {
+        "title": "BSS Engineer",
+        "organization": "Prime Telecommunication Engineering (Pvt) Ltd.",
+        "startingDate" : "July 2011",
+        "endDate" : "December 2012",
+        "jobDescription" : ["Supervised installation on BSS sites for Warid Telecom.",
+                             "Performed commissioning and integration, and quality testing for handing over to the customer.",
+                            "Acquired ZTE certification on SDR installation for Telenor Swap project.",
+                            "Contributed on OHSAS 18000 Certification of the company."]
+    }
+]
